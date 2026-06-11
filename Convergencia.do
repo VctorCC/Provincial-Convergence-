@@ -2,8 +2,10 @@
 clear all
 
 
-*WATMING: CHANGE  THE REPOSITORIES!!*
+*WARMING: CHANGE  THE REPOSITORIES!!*
 cd "D:\Doctorado\Convergencia\DATOS"
+
+*WARMING II: with the data files, use execute "Principal.dta" from line 770*
 
 *=============================================================================
 *                       2000
